@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoursePriject</string>
+    <string name="calculate_an_expression">Calculate an expression</string>
+    <string name="step">Step:</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+    <string name="expression">Expression:</string>
+</resources>
